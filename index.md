@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Shiny app on FIFA 22 player Analysis Using R](https://roshanshrestha.shinyapps.io/R_project/?_ga=2.224630290.903187739.1650071384-1388074096.1650071384/)
 <img src="/assets/img/dummy_thumbnail.jpeg?raw=true"/>
 
 ---
