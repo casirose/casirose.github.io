@@ -1,6 +1,11 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Roshan Shrestha
+logo: "/images/logo.png?raw=true" 
+description: > 
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/casirose">View My LinkedIn Profile</a> 
+  
 google_analytics:
 theme: jekyll-theme-minimal
