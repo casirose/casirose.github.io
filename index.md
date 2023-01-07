@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="/img/dummy_thumbnail.jpeg?raw=true"/>
+<img src="/assets/img/dummy_thumbnail.jpeg?raw=true"/>
 
 ---
 
