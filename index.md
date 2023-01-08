@@ -8,7 +8,7 @@
 <img src="/assets/img/FIFA22.png?raw=true"/>**
 
 ---
-[MKBHD YouTube Channel Analysis](/docs/YouTubeAPI.ipynb)
+[MKBHD YouTube Channel Analysis](https://github.com/casirose/casirose.github.io/blob/main/docs/YouTubeAPI.ipynb)
 <img src="/assets/img/YouTube.png?raw=true"/>
 
 ---
