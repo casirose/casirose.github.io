@@ -8,8 +8,8 @@
 <img src="/assets/img/FIFA22.png?raw=true"/>**
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="/assets/img/dummy_thumbnail.jpeg?raw=true"/>
+[MKBHD YouTube Channel Analysis](/docs/YouTubeAPI.ipynb)
+<img src="/assets/img/YouTube.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
