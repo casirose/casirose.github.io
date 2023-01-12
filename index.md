@@ -19,7 +19,6 @@
 
 ---
 
-Logistic Regression
 [Logistic Regression](https://github.com/casirose/casirose.github.io/blob/main/docs/Logistic%20Regression%20Project.ipynb)
 <img src="/assets/img/Logistic Regression.png?raw=true"/>
 
