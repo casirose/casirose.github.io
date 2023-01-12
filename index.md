@@ -8,14 +8,17 @@
 <img src="/assets/img/FIFA22.png?raw=true"/>**
 
 ---
+
+[Created an R package named EmoReader for Emotion Analysis](https://github.com/casirose/EmoReader)
+<img src="/assets/img/Rpackage.png?raw=true"/>
+
+---
+
 [MKBHD YouTube Channel Analysis](https://github.com/casirose/casirose.github.io/blob/main/docs/YouTubeAPI.ipynb)
 <img src="/assets/img/YouTube.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="/assets/img/dummy_thumbnail.jpeg?raw=true"/>
 
----
 
 ### Category Name 2
 
