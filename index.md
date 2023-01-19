@@ -22,12 +22,9 @@
 [Logistic Regression](https://github.com/casirose/casirose.github.io/blob/main/docs/Logistic%20Regression%20Project.ipynb)
 <img src="/assets/img/Logistic Regression.png?raw=true"/>
 
-### Category Name 2
+---
 
-- [Project 1 Title](https://roshanshrestha.shinyapps.io/R_project/?_ga=2.224630290.903187739.1650071384-1388074096.1650071384/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[KNN Prediction Diabetes](https://github.com/casirose/casirose.github.io/blob/main/docs/Diabetes-KNN-Prediction.ipynb)
+<img src="/assets/img/Diabetes-KNN-Prediction.png?raw=true"/>
 
 ---
