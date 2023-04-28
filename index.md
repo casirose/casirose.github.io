@@ -7,6 +7,10 @@
 **[Shiny App of Data Analysis Jobs](https://roshanshrestha.shinyapps.io/Analysis/?_ga=2.71965843.1877477368.1682612833-638465303.1682612833)
 <img src="/assets/img/DataAnalysisJobs.png?raw=true"/>**
 
+**[STA 631 Self Reflection](https://github.com/casirose/casirose.github.io/blob/main/docs/jobs.pdf)
+<img src="/assets/img/Reflection.png?raw=true"/>**
+
+
 **[Shiny App on FIFA 22 player Analysis Using R](https://roshanshrestha.shinyapps.io/R_project/?_ga=2.224630290.903187739.1650071384-1388074096.1650071384/)
 <img src="/assets/img/FIFA22.png?raw=true"/>**
 
