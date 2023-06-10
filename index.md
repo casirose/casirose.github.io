@@ -4,6 +4,9 @@
 
 ### Data Science Projects
 
+**[Pudmed Gene Viz](https://github.com/casirose/NLP-for-Bioinformatics/blob/main/Geneviz.py)
+<img src="/assets/img/Pubmed.png?raw=true"/>**
+
 **[Shiny App of Data Analysis Jobs](https://roshanshrestha.shinyapps.io/Analysis/?_ga=2.71965843.1877477368.1682612833-638465303.1682612833)
 <img src="/assets/img/DataAnalysisJobs.png?raw=true"/>**
 
