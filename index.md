@@ -3,14 +3,14 @@
 ---
 
 ### Data Science Projects
-**[Pudmed Gene Viz](https://github.com/casirose/ML/blob/main/Final_ML4.ipynb)
+**[Autoencoder](https://github.com/casirose/ML/blob/main/Final_ML4.ipynb)
 <img src="/assets/img/Auto encoder.png?raw=true"/>**
 
 
-**[Pudmed Gene Viz](https://github.com/casirose/ML/blob/main/MNIST_Final.pdf)
+**[MNIST](https://github.com/casirose/ML/blob/main/MNIST_Final.pdf)
 <img src="/assets/img/MNIST.png?raw=true"/>**
 
-**[Pudmed Gene Viz](https://github.com/casirose/ML/blob/main/Prediction%20challenge.ipynb)
+**[NMF](https://github.com/casirose/ML/blob/main/Prediction%20challenge.ipynb)
 <img src="/assets/img/NMF.png?raw=true"/>**
 
 **[KNN    ](https://github.com/casirose/ML/blob/main/knnRecommendation.pdf)
